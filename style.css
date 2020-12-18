@@ -1,0 +1,32 @@
+
+
+#myBar {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: #4CAF50;
+  
+}
+
+.container {
+  width: 500px;
+  border: solid black;
+}
+
+.container2 {
+  width: 500px;
+  height: 30px;
+  margin: '40px';
+  background-color: gray;
+}
+
+.bar{
+  background-color: green;
+  height: 100%;
+  width: 0%;
+}
+
